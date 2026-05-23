@@ -1,5 +1,5 @@
 # AI-ML-Resources
-🌟 Open-source collection of AI/ML learning resources. Curated for students, developers &amp; aspiring AI engineers.
+🌟 Open-source collection of AI/ML learning resources. Curated for students, developers & aspiring AI engineers.
 
 # 🤖 AI & ML Books Collection
 
@@ -78,6 +78,7 @@ ML models at a company."*
 — Goku Mohandas, Founder of Made With ML
 
 ### 📥 Get This Book
+- 🌊 [OceanofPDF](https://oceanofpdf.com) — Get this book for free here
 - 🏛️ [Borrow Free on Archive.org](https://archive.org/search?query=designing+machine+learning+systems)
 - 🛒 [Buy on Amazon](https://www.amazon.in/s?k=designing+machine+learning+systems)
 - 🔍 Search: `"Designing Machine Learning Systems Chip Huyen pdf"`
@@ -134,6 +135,7 @@ that are reliable, fast, and cost-efficient.
 > *"Chip Huyen does it again — practical, clear and immediately useful."*
 
 ### 📥 Get This Book
+- 🌊 [OceanofPDF](https://oceanofpdf.com) — Get this book for free here
 - 🏛️ [Borrow Free on Archive.org](https://archive.org/search?query=AI+Engineering+chip+huyen)
 - 🛒 [Buy on Amazon](https://www.amazon.in/s?k=AI+Engineering+chip+huyen)
 - 🔍 Search: `"AI Engineering Chip Huyen 2024 pdf"`
@@ -183,6 +185,7 @@ NumPy so you truly understand how deep learning works at its core.
 | 7 | PyTorch Introduction |
 
 ### 📥 Get This Book
+- 🌊 [OceanofPDF](https://oceanofpdf.com) — Get this book for free here
 - 🏛️ [Borrow Free on Archive.org](https://archive.org/search?query=deep+learning+from+scratch+seth+weidman)
 - 🛒 [Buy on Amazon](https://www.amazon.in/s?k=deep+learning+from+scratch+seth+weidman)
 - 🔍 Search: `"Deep Learning from Scratch Seth Weidman pdf"`
@@ -233,6 +236,7 @@ explanations that make complex concepts easy to understand.
 | Semantic Search | Finding meaning, not just keywords |
 
 ### 📥 Get This Book
+- 🌊 [OceanofPDF](https://oceanofpdf.com) — Get this book for free here
 - 🏛️ [Borrow Free on Archive.org](https://archive.org/search?query=hands+on+large+language+models)
 - 🛒 [Buy on Amazon](https://www.amazon.in/s?k=hands+on+large+language+models)
 - 🔍 Search: `"Hands-On Large Language Models Jay Alammar pdf"`
@@ -286,6 +290,7 @@ not just reading theory.
 > *"Best practical ML book available — covers everything with working code."*
 
 ### 📥 Get This Book
+- 🌊 [OceanofPDF](https://oceanofpdf.com) — Get this book for free here
 - 🏛️ [Borrow Free on Archive.org](https://archive.org/search?query=hands+on+machine+learning+scikit+learn+keras+tensorflow)
 - 🛒 [Buy on Amazon](https://www.amazon.in/s?k=hands+on+machine+learning+aurelien+geron)
 - 🔍 Search: `"Hands On Machine Learning Aurélien Géron 3rd edition pdf"`
@@ -319,4 +324,4 @@ Feel free to open a **Pull Request** and add it to the list!
 
 **GitHub:** [Gana-Y](https://github.com/Gana-Y)
 
-> ⭐ If this helped you,  **star this repository** — it means a lot!
+> ⭐ If this helped you, **star this repository** — it means a lot!
